@@ -1,5 +1,7 @@
 cdp is a small program to cd into one of the parent/grand-parent/... of the current directory instead of cd ../../../../target
 
+It should be used when you are deep inside a directory hierarchy and want to go to one of the intermediate directory
+
 Install: Place the script in somewhere you like, and source the script in the .bashrc or .bash_profile
 
 Usage: cdp [DIRECTORY]
